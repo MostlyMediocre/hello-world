@@ -1,2 +1,4 @@
 # hello-world
-i basic test of making a git hub repo
+a basic test of making a git hub repo
+
+this is a description of me 
